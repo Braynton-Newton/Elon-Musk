@@ -1,0 +1,62 @@
+body{
+    background-color: #002E94;
+    font-family: Arial;
+    font-size: 1.25rem;
+    color: #E1CeB5;
+}
+a:link{
+    color: #E1CEB5;
+}
+a:visited{
+    color: #E1CEB5;
+}
+a:hover{
+    color: #FFE7CC;
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
+.profile-alignment{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.center-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.link-cells{
+    padding: 10px;
+}
+.info-alignment{
+    margin-left: auto;
+    margin-right: auto;
+}
+.head-one-aline{
+    text-align: center;
+}
+ol{
+    list-style-type: upper-roman;
+}
+.ol-level-two{
+    list-style-type: lower-roman;
+}
+.ul-list-type{
+    list-style-type: none;
+}
+.song-title{
+    font-weight: bold;
+    font-style: italic;
+    text-decoration-line: underline;
+    display: inline;
+}
+.li-underline{
+    text-decoration-line: underline;
+    display: inline;
+}
+.business-list{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
